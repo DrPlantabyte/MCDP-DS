@@ -1,0 +1,23 @@
+Minecraft Datapack: Disaster Series
+- If added to save world, it will cause a series of scripted events to occur during gameplay.
+
+Events:
+- Dragon storm
+	Trigger: time since sleeping in a bed reaches half a day
+	Action: lightning storm and dragon appears briefly, skeletons fall from the sky in its wake
+- Nether portal attack
+	Trigger: after 13th trade with a villager
+	Action: (invisible) count-down timer, then a nether portal is created and hostile mobs are
+- Nether portal attack 2
+	Trigger: after crafting an eye of ender
+	Action: (invisible) count-down timer, then a nether portal is created and hostile mobs are launched from it, then the portal is broken
+- Illager ambush
+	Trigger: after killing 7th witch
+	Action: (invisible) count-down timer, then vindicators appear
+- Enderman with treasure block
+	Trigger: time alive reaches 10 days
+	Action: an enderman holding a diamond block and three endermen holding obsidian blocks appears next to the player
+- Guardian ambush
+	Trigger: player swims for more than 500 meters
+	Action: a guardian and two trident-wielding drowned zombies spawn above the player (splash)
+
