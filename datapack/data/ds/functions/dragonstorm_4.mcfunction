@@ -1,0 +1,1 @@
+weather clearscoreboard players set @s dragonstorm_done 1

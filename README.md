@@ -4,9 +4,8 @@ Disaster Series: a Minecraft Datapack that adds scripted disasters to the game
 Each event happens *once* per player (even if the trigger happens multiple times), centered on the player who triggered the event. Many events have a hidden count-down timer so that it the event happens some time after the trigger. This way, it isn't obvious what the triggering event was.
 
 ### Glimpse of the Ender Dragon
-Not yet implemented.
-* *Trigger:* Player time in game reaches a half-day
-* *Event:* A short-live thunderstorm occurs, then the Ender Dragon appears above the player, shoots a fireball at them, then disappears in a shower of monsters riding ender pearls
+* *Trigger:* Near the end of the player's first Minecraft day
+* *Event:* A short-live thunderstorm occurs, during which the Ender Dragon appears above the player, shoots a fireball at them, then disappears in a shower of monsters riding ender pearls
 
 ### Nether Portal Attack #1
 Not yet implemented.

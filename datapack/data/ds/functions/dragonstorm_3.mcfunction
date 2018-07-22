@@ -1,0 +1,1 @@
+execute in overworld at @s run kill @e[type=minecraft:ender_dragon]

@@ -1,0 +1,1 @@
+scoreboard players set @a target 12000execute as @a if score @s dragonstorm_done = @s zero if score @s dragonstorm_trig >= @s target at @s run function ds:dragonstorm_update
