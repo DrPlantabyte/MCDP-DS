@@ -1,0 +1,1 @@
+scoreboard players add @s portalatk1_tick 1scoreboard players set @s temp 24000execute at @s if score @s portalatk1_tick = @s temp run function ds:portalatk1_1scoreboard players set @s temp 24600execute at @s if score @s portalatk1_tick = @s temp run function ds:portalatk1_2
